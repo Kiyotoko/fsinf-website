@@ -19,16 +19,18 @@ const protocolItems = (await getCollection("protocols")).reverse();
       <section>
         <h1>Sitzungsprotokolle</h1>
         <ul
-          class="m-0 flex flex-col h-auto w-full grid-flow-row grid-cols-1 justify-center gap-4 pt-6 sm:grid-cols-2"
+          class="m-0 flex h-auto w-full grid-flow-row grid-cols-1 flex-col justify-center gap-4 pt-6 sm:grid-cols-2"
         >
           {
             protocolItems.map((item) => (
               <li>
-                <a href={`/protocols/${item.slug}/`}>Protokoll vom {item.slug.slice(0, 10)}</a>
+                <a href={`/protocols/${item.slug}/`}>
+                  Protokoll vom {item.slug.slice(0, 10)}
+                </a>
               </li>
             ))
           }
-        </div>
+        </ul>
       </section>
     </main>
     <Footer />

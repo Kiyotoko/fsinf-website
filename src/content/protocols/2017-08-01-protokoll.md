@@ -1,6 +1,5 @@
 ---
 konstisitzung: true
-
 ---
 
 Anwesende: Tim, Paul, Ahmad, Josy, Irene, Christofer, Denise, Philipp,
@@ -10,11 +9,12 @@ Protokoll: Denise
 ## Konstituierende Sitzung
 
 ### Sprecher
+
 - Sprecher: Denise 10/0/0
-Keine Kontovollmacht
+  Keine Kontovollmacht
 
 - Stellv. Sprecher:
-Wahl, zwei Runden
+  Wahl, zwei Runden
 
 Tim
 
@@ -45,9 +45,7 @@ Christofer
 
 10/0/0
 
-
 Beginn Amtsperiode: 1.10.2017
-
 
 ##Sonstige interne Aufgabenbereiche und Regelungen
 
@@ -56,10 +54,10 @@ Beginn Amtsperiode: 1.10.2017
 - Email-Moderation: Christofer
 - Git: Tim und Josy wenden sich an Fabian
 - Transponder:
-Martin --> Josy
-Verena --> Christoph
-Manuel --> Ahmad
-Dominik --> Tim
+  Martin --> Josy
+  Verena --> Christoph
+  Manuel --> Ahmad
+  Dominik --> Tim
 
 Paul und Philipp: Zu Janassary
 Irene: Klärt mit Janassary Zugang

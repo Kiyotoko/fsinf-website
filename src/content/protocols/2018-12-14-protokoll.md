@@ -2,7 +2,7 @@
 ---
 
 Anwesend: Christofer, Paul, Moritz, Irene, Denise, Ahmad  
-Protokoll: Paul  
+Protokoll: Paul
 
 ## Tagesordnung 14.12.2018
 
@@ -17,16 +17,18 @@ Protokoll: Paul
 9. Ehumanities
 10. Der FSR der Zukunft
 
-  * Denise und Ahmad haben nur kurz Zeit, Vorschlag: Alles außer Orga und 35C3 vertagen
-    * -> zugestimmt
+- Denise und Ahmad haben nur kurz Zeit, Vorschlag: Alles außer Orga und 35C3 vertagen
+  - -> zugestimmt
 
 ## 1. Orga
-  * Finanzen
-    * Weihnachtsfeier Finanzen beschließen für Einkauf etc.
-    * Vorschlag: 350€
-    * Beschluss: 5/0/1 -> angenommen
+
+- Finanzen
+  - Weihnachtsfeier Finanzen beschließen für Einkauf etc.
+  - Vorschlag: 350€
+  - Beschluss: 5/0/1 -> angenommen
 
 ## 4. 35C3
-  * Kooperationsverträge müssen gemacht werden
-  * Koop. mit Philo und Mathe, wir zahlen 1000€, die Beträge der anderen sind offen
-  * Beschluss: 5/0/1 -> angenommen
+
+- Kooperationsverträge müssen gemacht werden
+- Koop. mit Philo und Mathe, wir zahlen 1000€, die Beträge der anderen sind offen
+- Beschluss: 5/0/1 -> angenommen

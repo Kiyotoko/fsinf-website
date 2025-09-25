@@ -1,6 +1,4 @@
 ---
-
-
 ---
 
 **anwesend:** Dominik, Verena (Gast)

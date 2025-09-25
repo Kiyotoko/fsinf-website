@@ -1,9 +1,7 @@
 ---
-
-
 ---
 
-* Anwesend: Alrik, Kasimir, Fabian, Martin, Nancy, Nicole, Sebbo
+- Anwesend: Alrik, Kasimir, Fabian, Martin, Nancy, Nicole, Sebbo
 
 ## Entbindung der ärztlichen Schweigepflicht
 
@@ -15,35 +13,35 @@ Der StuRa weiß auch schon Bescheid.
 
 ## Weihnachtspicknick
 
-* waren ca. 30 Leute, positives Feedback
-* nächstes Mal gern wärmeres Licht
-* Werbekanäle (Webseite, Facebook, Twitter) sind anscheinend noch ausbaufähig
+- waren ca. 30 Leute, positives Feedback
+- nächstes Mal gern wärmeres Licht
+- Werbekanäle (Webseite, Facebook, Twitter) sind anscheinend noch ausbaufähig
 
 ## Altklausurensammlung
 
-* eine zentrale Verwaltung ist seit Ewigkeiten überfällig
-* tendenziell kümmert Fabian sich darum
+- eine zentrale Verwaltung ist seit Ewigkeiten überfällig
+- tendenziell kümmert Fabian sich darum
 
 ## Weihnachtsparty 18.12.2014
 
-* wird super
-* wer will, macht Schichten
+- wird super
+- wer will, macht Schichten
 
 ## xceeth
 
-* Wir sind gespannt auf Januar
+- Wir sind gespannt auf Januar
 
 ## Finanzen
 
-* gerade relativ viel Geld auf dem FSR-Konto
-* Rechnung von Open Houses e.V. für die Anzahlung Studienfahrt 2015 (Schloss Oberau) müsste bald eintreffen, Reservierung ist telefonisch schon bestätigt
-* Abrechnung der Weihnachtsparty (18.12.) werden wir erst im neuen Jahr schaffen
-* Auslagenerstattung Schaden und Technikverlust Sommerparty machen wir, sobald die Weihnachtsparty abgerechnet ist und eventuelle Förderungen der Weihnachtsparty eingetroffen sind
-* Wir müssen einen Antrag auf Kassenrest stellen, um das Geld auf dem Konto ins neue Haushaltsjahr übernehmen zu können. Abstimmung: 7/0/0
+- gerade relativ viel Geld auf dem FSR-Konto
+- Rechnung von Open Houses e.V. für die Anzahlung Studienfahrt 2015 (Schloss Oberau) müsste bald eintreffen, Reservierung ist telefonisch schon bestätigt
+- Abrechnung der Weihnachtsparty (18.12.) werden wir erst im neuen Jahr schaffen
+- Auslagenerstattung Schaden und Technikverlust Sommerparty machen wir, sobald die Weihnachtsparty abgerechnet ist und eventuelle Förderungen der Weihnachtsparty eingetroffen sind
+- Wir müssen einen Antrag auf Kassenrest stellen, um das Geld auf dem Konto ins neue Haushaltsjahr übernehmen zu können. Abstimmung: 7/0/0
 
 ## Magnethalterung für unsere Tür
 
-* zum brandschutztechnisch korrekten Anbringen von Plakaten an der Tür unseres FSR-Raums
-* günstigstes Angebot: im Zweierpack für 19 Euro bei amazon
-* wir können den FSR Mathe fragen, ob sie uns eines abkaufen möchten
-* Abstimmung: 7/0/0
+- zum brandschutztechnisch korrekten Anbringen von Plakaten an der Tür unseres FSR-Raums
+- günstigstes Angebot: im Zweierpack für 19 Euro bei amazon
+- wir können den FSR Mathe fragen, ob sie uns eines abkaufen möchten
+- Abstimmung: 7/0/0
