@@ -9,14 +9,14 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
   <head>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
   </head>
-  <body class="flex flex-col justify-between h-screen">
+  <body class="flex h-screen flex-col justify-between">
     <Header />
-    <main class="flex justify-center mx-auto p-4 w-full my-auto">
+    <main class="mx-auto my-auto flex w-full justify-center p-4">
       <div class="flex flex-col">
         <h3 class="text-center font-bold">Kein Inhalt gefunden.</h3>
         <i class="text-center">Zurück zur <a href="/">Startseite</a>.</i>
       </div>
     </main>
-    <Footer class:list="-translate-y-full"/>
+    <Footer class:list="-translate-y-full" />
   </body>
 </html>
