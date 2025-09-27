@@ -22,17 +22,30 @@
 
 Inside of your Astro project, you'll see the following folders and files:
 
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
+```sh
+├── images
+│   └── fsinf-image.png
+├── public
+│   ├── fonts
+│   ├── infosaurus.png
+│   └── infosaurus.svg
+├── src
+│   ├── components
+│   ├── content
+│   ├── images
+│   ├── pages
+│   ├── scripts
+│   ├── styles
+│   ├── consts.ts
+│   └── env.d.ts
 ├── astro.config.mjs
-├── README.md
+├── CONTRIBUTING.md
 ├── package.json
+├── package-lock.json
+├── README.md
+├── shell.nix
 ├── tailwind.config.mjs
+├── treefmt.toml
 └── tsconfig.json
 ```
 
